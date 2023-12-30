@@ -3,12 +3,19 @@
 ### Description
 
 Platform to create sense of living and being an individual person  
+Interface in russian language.
 
 ### Stack
 
 Web app on **React** + **TS**, state management with **Context API** and **Redux Toolkit**, persist data in cookie.  
 
-Testing with Jest
+Rounting on **Wouter**.  
+
+**GraphQL** with **Apollo** allow to use great API to work with backend.  
+
+Unit testing with **Jest**.  
+
+Date management and different-scope functions with own libraries **centum.js** and **datus.js**.  
 
 ### Architecture
 
