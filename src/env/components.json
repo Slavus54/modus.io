@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Лекция",
+        "path": "lecture"
+    },
+    {
+        "title": "Семинар",
+        "path": "workshop"
+    },
+    {
+        "title": "Чудо",
+        "path": "miracle"
+    }
+]

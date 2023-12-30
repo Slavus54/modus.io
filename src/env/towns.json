@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Харьков",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.0044,
+            "long": 36.2357
+        }
+    },
+    {
+        "title": "Киев",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.4495,
+            "long": 30.5253
+        }
+    },
+    {
+        "title": "Полтава",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.5896,
+            "long": 34.5513
+        }
+    },
+    {
+        "title": "Черкассы",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.4444,
+            "long": 32.0593
+        }
+    },
+    {
+        "title": "Запорожье",
+        "domain": "ua",
+        "cords": {
+            "lat": 47.8134,
+            "long": 35.1813
+        }
+    },
+    {
+        "title": "Днепр",
+        "domain": "ua",
+        "cords": {
+            "lat": 48.4644,
+            "long": 35.0457
+        }
+    },
+    {
+        "title": "Житомир",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.2546,
+            "long": 28.6586
+        }
+    },
+    {
+        "title": "Хмельницкий",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.4233,
+            "long": 26.9862
+        }
+    },
+    {
+        "title": "Луцк",
+        "domain": "ua",
+        "cords": {
+            "lat": 50.7471,
+            "long": 25.3261
+        }
+    },
+    {
+        "title": "Львов",
+        "domain": "ua",
+        "cords": {
+            "lat": 49.8436,
+            "long": 24.0268
+        }
+    },
+    {
+        "title": "Москва",
+        "domain": "ru",
+        "cords": {
+            "lat": 55.7542,
+            "long": 37.6206
+        }
+    },
+    {
+        "title": "Санкт-Петербург",
+        "domain": "ru",
+        "cords": {
+            "lat": 59.9393,
+            "long": 30.3157
+        }
+    },
+    {
+        "title": "Новосибирск",
+        "domain": "ru",
+        "cords": {
+            "lat": 55.0299,
+            "long": 82.9205
+        }
+    },
+    {
+        "title": "Омск",
+        "domain": "ru",
+        "cords": {
+            "lat": 54.9902,
+            "long": 73.3663
+        }
+    },
+    {
+        "title": "Прага",
+        "domain": "cz",
+        "cords": {
+            "lat": 50.0876,
+            "long": 14.4211
+        }
+    },
+    {
+        "title": "Братислава",
+        "domain": "sk",
+        "cords": {
+            "lat": 48.1434,
+            "long": 17.1082
+        }
+    },
+    {
+        "title": "Краков",
+        "domain": "pl",
+        "cords": {
+            "lat": 50.0618,
+            "long": 19.9367
+        }
+    },
+    {
+        "title": "Будапешт",
+        "domain": "hu",
+        "cords": {
+            "lat": 47.499,
+            "long": 19.0517
+        }
+    }
+]

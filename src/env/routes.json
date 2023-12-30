@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Главная",
+        "access_value": 0,
+        "url": "/"
+    },
+    {
+        "title": "Начало пути",
+        "access_value": -1,
+        "url": "/register"
+    },
+    {
+        "title": "Войти",
+        "access_value": -1,
+        "url": "/login"
+    },
+    {
+        "title": "Лекции",
+        "access_value": 1,
+        "url": "/lectures"
+    },
+    {
+        "title": "Семинары",
+        "access_value": 1,
+        "url": "/workshops"
+    },
+    {
+        "title": "Чудеса",
+        "access_value": 1,
+        "url": "/miracles"
+    },
+    {
+        "title": "Пользователи",
+        "access_value": 1,
+        "url": "/profiles"
+    }
+]

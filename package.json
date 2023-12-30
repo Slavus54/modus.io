@@ -1,0 +1,51 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.68",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "apollo-boost": "^0.4.9",
+    "axios": "^1.6.2",
+    "centum.js": "^1.0.9",
+    "datus.js": "^1.0.4",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
+    "jest": "^27.5.1",
+    "js-cookie": "^3.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-map-gl": "^5.3.21",
+    "react-redux": "^9.0.4",
+    "react-scripts": "5.0.1",
+    "shortid": "^2.2.16",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4",
+    "wouter": "^2.12.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
