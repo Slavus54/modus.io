@@ -1,46 +1,51 @@
-# Getting Started with Create React App
+## Modus.io
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
 
-## Available Scripts
+Platform to create sense of living and being an individual person  
+Interface in russian language.
 
-In the project directory, you can run:
+### Stack
 
-### `npm start`
+Web app on **React** + **TS**, state management with **Context API** and **Redux Toolkit**, persist data in cookie.  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Rounting on **Wouter**.  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**GraphQL** with **Apollo** allow to use great API to work with backend.  
 
-### `npm test`
+Unit testing with **Jest**.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Date management and different-scope functions with own libraries **centum.js** and **datus.js**.  
 
-### `npm run build`
+### Architecture
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Inside *src* you can see many folders.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Core of App based on Layout with routing-access-level system, checking every route for client.  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Home page divided on 2 components, *static welcome page* and *account page*  
 
-### `npm run eject`
+Account Page has own sidebar with microserveces interacting with profile. (Personal info, geo, some collections and etc.)    
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Every *hoc component* created with schema:  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Form in profile page  
+Search page  
+Single item page  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### What about functional?  
+  
+Inside profile page you can see all components you working with, create and using *hoc components*    
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Also, there you can manage own Marathon Distance (part using Redux)     
 
-## Learn More
+### Demo URL and Download  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Look on https://658fcf952414b2450923f7e8--modus-vivendi.netlify.app      
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Fork and clone this repository  
+
+~~~
+git clone https://github.com/Slavus54/modus.io.git  
+npm run start
+~~~
