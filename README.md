@@ -41,7 +41,7 @@ Also, there you can manage own Marathon Distance (part using Redux)
 
 ### Demo URL and Download  
 
-Look on https://658fcf952414b2450923f7e8--modus-vivendi.netlify.app      
+https://6590f08f929bead91685f745--modus-vivendi.netlify.app      
 
 Fork and clone this repository  
 
